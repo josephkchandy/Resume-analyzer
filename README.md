@@ -1,6 +1,8 @@
 # ResumeAI - UI + LlamaIndex integration
 
 This project connects the supplied ResumeAI interface to a Flask backend. A user can upload a PDF resume, receive an AI-generated summary, and ask follow-up questions about that resume.
+<img width="1897" height="911" alt="Screenshot 2026-06-24 102111" src="https://github.com/user-attachments/assets/601ae90c-1acd-4e29-a777-38886adf45fe" />
+
 
 ## Run locally
 
